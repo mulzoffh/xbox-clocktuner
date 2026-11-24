@@ -1,0 +1,8 @@
+bin/
+*.obj
+*.d
+*.exe
+*.iso
+*.lib
+*.zip
+__pycache__/
