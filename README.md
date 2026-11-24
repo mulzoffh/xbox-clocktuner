@@ -84,3 +84,6 @@ The check fails if any `0F 31` byte pair ended up in a data section, where Cerbi
 - [nxdk](https://github.com/XboxDev/nxdk) and the XboxDev community.
 - Cerbios, which does the actual clock setting at power-on.
 - [envytools](https://github.com/envytools/envytools), for the NVIDIA register documentation.
+
+## License
+MIT. See [LICENSE](LICENSE).
